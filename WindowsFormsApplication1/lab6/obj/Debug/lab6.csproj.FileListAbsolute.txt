@@ -1,0 +1,33 @@
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\xixi4.den\Desktop\Универ\BSUIR\МиАПР\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+D:\Desktop\lab6\lab6\obj\Debug\lab6.exe
+D:\Desktop\lab6\lab6\obj\Debug\lab6.pdb
+D:\Desktop\lab6\lab6\bin\Debug\lab6.exe
+D:\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+D:\Desktop\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+D:\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\Desktop\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Desktop\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\bin\Debug\lab6.exe.config
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\bin\Debug\lab6.exe
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\bin\Debug\lab6.pdb
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.Cache
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.exe
+D:\study\3course\Miapr\m\МиАПР\МиАПР\Lab6\lab6\obj\Debug\lab6.pdb
+D:\Drive\учёба\3 курс\2 сем\МиАПР\Lab6\Lab6\lab6\bin\Debug\lab6.exe.config
+D:\Drive\учёба\3 курс\2 сем\МиАПР\Lab6\Lab6\lab6\obj\Debug\lab6.exe
+D:\Drive\учёба\3 курс\2 сем\МиАПР\Lab6\Lab6\lab6\obj\Debug\lab6.pdb
+D:\Drive\учёба\3 курс\2 сем\МиАПР\6\WindowsFormsApplication1\lab6\bin\Debug\lab6.exe.config
+D:\Drive\учёба\3 курс\2 сем\МиАПР\6\WindowsFormsApplication1\lab6\obj\Debug\lab6.exe
+D:\Drive\учёба\3 курс\2 сем\МиАПР\6\WindowsFormsApplication1\lab6\obj\Debug\lab6.pdb
